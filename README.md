@@ -83,7 +83,7 @@
 
 <p float="left">
   <a href="https://www.credly.com/badges/b05712ee-16e6-4737-8687-6e4268f9c4c7/linked_in?t=rusr2o/public_url" target="_blank" >
-    <img src="https://raw.githubusercontent.com/nagraj1/nagraj1/master/assets/https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png" height="120" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/nagraj1/nagraj1/master/assets/https://images.credly.com/size/680x680/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/https://i0.wp.com/vworld.nl/wp-content/uploads/2019/09/exam-az400-600x600.png?ssl=1&w=554" height="120" />&nbsp;&nbsp;
   </a>
  
 </p>
