@@ -76,8 +76,19 @@
     <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />
   </a>
 </p>
- 
 
 
+ ## My Certifications 🏆
+
+ <p float="left">
+  <a href="https://www.credly.com/badges/b05712ee-16e6-4737-8687-6e4268f9c4c7/linked_in?t=rusr2o/public_url" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
+  </a>
  
+</p>
+
+
+
+
+
 
