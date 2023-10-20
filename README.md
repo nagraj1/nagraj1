@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nagaraj-karanth-3863b2144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaraj karanth" height="30" width="40" /></a>
-<a href="https://kaggle.com/nagraj karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nagraj karanth" height="30" width="40" /></a>
-<a href="https://hashnode.com/nagraj karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nagraj karanth" height="30" width="40" /></a>
+<a href="https://kaggle.com/nagrajkaranth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nagraj karanth" height="30" width="40" /></a>
+<a href="https://nagrajkaranth540.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nagraj karanth" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nagraj karanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nagraj karanth" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nagraj karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagraj karanth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nagraj karanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagraj karanth" height="30" width="40" /></a>
