@@ -74,7 +74,7 @@
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
@@ -90,7 +90,7 @@
   
  <p float="left">
   <a href="https://https://www.ansible.com//" target="_blank" >
-    <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />&nbsp;&nbsp;
+    <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />
   </a>
 </p>
 
