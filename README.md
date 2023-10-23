@@ -86,10 +86,11 @@
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
 </a>
 </p>
+
 ## Configuration management
   
  <p float="left">
-  <a href="https://https://www.ansible.com//" target="_blank" rel="noreferrer">
+  <a href="https://https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />
   </a>
 </p>
