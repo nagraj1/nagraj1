@@ -86,7 +86,7 @@
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
 </a>
 </p>
-### Configuration management
+## Configuration management
   
  <p float="left">
   <a href="https://https://www.ansible.com//" target="_blank" rel="noreferrer">
