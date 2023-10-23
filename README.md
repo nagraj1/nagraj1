@@ -90,7 +90,7 @@
   
  <p float="left">
   <a href="https://https://www.ansible.com//" target="_blank" >
-    <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />
+    <img src="https://tse4.mm.bing.net/th?id=OIP.2Ro89khbnuDTxEVpm4-gAgHaEQ&pid=Api&P=0&h=180" height="65" />&nbsp;&nbsp;
   </a>
 </p>
 
